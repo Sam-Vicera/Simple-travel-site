@@ -1,0 +1,20 @@
+nav img{
+    width: 750px;
+    padding-left: 320px;
+    
+}
+Header h1{
+    border: solid 5px;
+    text-align: center;
+   background-color: black;
+   color:rgba(215, 185, 11, 0.874);
+   padding-bottom:15px;
+
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.2em;
+}
+#information{
+    border: 1px solid;
+}
